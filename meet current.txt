@@ -1,0 +1,4 @@
+Paper tentang microservice
+implentasi CES -> FNF -> BMC -> PDC -> UCDC
+load test ngisi random 
+locust eskalasi pakai bilangan prima.
